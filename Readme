@@ -1,0 +1,6 @@
+echo "# pheonixpv" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/praharika19/pheonixpv.git
+git push -u origin master
